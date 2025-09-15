@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-✨ Student of life :) <br>
-
-🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br>🤝 I’m looking for help with Web & Software Development!<br>⚡ Fun fact: I once explained how the internet works to a 10 year old using a pizza delivery analogy and now he thinks routers are magical pizza chefs! 🍕
+✨ Student of life :) <br> 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.<br>🤝 I’m looking for help with Web & Software Development!<br>⚡ Fun fact: I once explained how the internet works to a 10 year old using a pizza delivery analogy and now he thinks routers are magical pizza chefs! 🍕
 
 
 ## 🌐 Socials:
